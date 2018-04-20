@@ -1,3 +1,48 @@
-html, body {
-  background-color: blue;
+html {
+  background-color: greenyellow;
+  color: firebrick;
+}
+
+
+
+h1 {
+  text-align: right;
+  padding: 5px 20px 5px 0;
+}
+
+p {
+  width: 50%;
+  margin-left: auto; 
+  margin-right: auto;
+
+  margin-bottom: 25%;
+  
+  text-align: center;
+  font-size: 150%;
+}
+
+
+
+ol, ul {
+  margin-left: 60%;
+}
+
+.list-item-1 {
+  font-size: 24px;
+}
+.list-item-2 {
+  font-size: 20px;
+  color: orange;
+}
+.list-item-3 {
+  font-size: 16px;
+}
+.list-item-4 {
+  font-size: 12px;
+}
+.list-item-5 {
+  font-size: 8px;
+}
+.list-item-6 {
+  font-size: 4px;
 }

@@ -74,13 +74,15 @@ Feel free to completely ignore anything in italics.
 
 You're finally gotten to the fun part! There's really only one step from here, and once you do that the rest is up to you. 
 
-You'll be given a super janky website and it's up to you to dive into the code and see what you can make of it. Don't worry though, what you see in the files corresponds directly to what you see in the browser, and if you pay close attention the names of things you might find some things starting to make sense!
+You'll be given a horrible website and it's up to you to dive into the code and see what you can make of it. Don't worry though, what you see in the files corresponds directly to what you see in the browser, and if you pay close attention the names of things you might find some things starting to make sense!
 
 - Final Step: enter
     ```
     live-server
     ```
-    into the Integrated Terminal
+    into the Integrated Terminal and you're ready to go!
+- click the file icon at the top left of the VSCode window (below the "File" menu option and above the magnifying glass) to jump into the code. I'd take a look at index.html first if I were you **hint hint*
+
 
 ## Neat Notes (in order of usefulness)
 
